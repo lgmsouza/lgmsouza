@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lgmsouza
-- 👀 I’m interested in working with Data Science
+- 👀 I’m interested in working with Python and Data Science
 - 🌱 I’m currently learning SQL, PowerBI and Machine Learning
 - 📫 lucasgms@gmail.com
 
