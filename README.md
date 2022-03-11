@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lgmsouza
+- 👋 Hi, I’m Lucas Gomes
 - 👀 I’m interested in working with Python and Data Science
-- 🌱 I’m currently learning SQL, PowerBI and Machine Learning
+- 🌱 I’m currently learning PowerBI, Airflow and Spark
 - 📫 lucasgms@gmail.com
 
 <!---
