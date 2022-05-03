@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lucas Gomes
-- 👀 I’m interested in working with Python and Data Science
-- 🌱 I’m currently learning Django, Airflow and PySpark
+- 👀 I’m interested in working with Data Science, Data Analysis and Data Engineering
+- 🌱 I’m currently learning PowerBI
 - 📫 lucasgms@gmail.com
 
 <!---
