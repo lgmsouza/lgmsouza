@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Lucas Gomes
 - 👀 I’m interested in working with Data Science, Data Analysis and Data Engineering
-- 🌱 I’m currently learning PowerBI
 - 📫 lucasgms@gmail.com
 
 <!---
